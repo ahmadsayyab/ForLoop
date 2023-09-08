@@ -10,6 +10,8 @@ namespace ForLoop
     {
         static void Main(string[] args)
         {
+            Exe_11.PrintPattern();
         }
+
     }
 }
