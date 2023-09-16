@@ -10,6 +10,7 @@ namespace ForLoop
     {
         static void Main(string[] args)
         {
+            Exe_38.CheckNum();
         }
     }
 }
